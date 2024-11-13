@@ -1,6 +1,5 @@
-
 const slideshow = document.querySelector('.slideshow');
-const imagesDir = '/';
+const imagesDir = '/images/';  // Update path to images directory
 const imageFiles = [
     'image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 
     'image5.jpg'
